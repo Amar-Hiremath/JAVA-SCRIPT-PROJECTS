@@ -21,3 +21,4 @@ else if (a=b){
   break
 }
 }
+  console.log("Game Over")
